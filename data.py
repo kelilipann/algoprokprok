@@ -8,4 +8,5 @@ Original file is located at
 """
 nama_produk = input("Masukkan nama produk: ")
 jumlah_produk = int(input("Masukkan jumlah produk: "))
+satuan_produk = input("Masukkan satuan produk (kg/liter): ")
 # Data
