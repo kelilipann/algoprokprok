@@ -7,4 +7,5 @@ Original file is located at
     https://colab.research.google.com/drive/1I9FF9lG85x8U746SoN8J6KQJjC_YPkQZ
 """
 nama_produk = input("Masukkan nama produk: ")
+jumlah_produk = int(input("Masukkan jumlah produk: "))
 # Data
